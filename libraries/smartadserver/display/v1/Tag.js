@@ -4,7 +4,7 @@ qubit.opentag.LibraryTag.define("smartadserver.display.v1.Tag", {
 	config: {
 		/*DATA*/
 		name: "display",
-		async: false,
+		async: true,
 		description: "Display advertisement",
 		html: "",
 		locationDetail: "",
