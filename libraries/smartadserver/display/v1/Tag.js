@@ -1,4 +1,5 @@
 //:include tagsdk-current.js
+//:include smartadserver/smartadserver/v1/Tag.js
 
 qubit.opentag.LibraryTag.define("smartadserver.display.v1.Tag", {
 	config: {
